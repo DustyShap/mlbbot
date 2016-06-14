@@ -1,2 +1,4 @@
 dustin.env
 dusty.env
+.env
+*.env
